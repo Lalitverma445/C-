@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lalit verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width ="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98">
+<img align="right"src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitverma445&label=Profile%20views&color=0e75b6&style=flat" alt="lalitverma445" /> </p>
 
 - 🌱 I’m currently learning **Pursuing: "Bachelor of Computer Application". Frameworks(HTML,CSS,JavaScript)**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lalit-verma-09b66a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/lalit-verma-09b66a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/lalit-verma-09b66a351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/lalit-verma-09b66a351)
 
 - 📫 How to reach me **vermalalit4450@gmail.com**
 
